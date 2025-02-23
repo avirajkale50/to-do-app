@@ -1,7 +1,5 @@
 # React Todo List App 
 
-![React Todo List](./to-do-logo.png)
-
 A modern, responsive Todo List application built with React and Tailwind CSS. Manage tasks with persistence using local storage.
 
 ## ✨ Features
